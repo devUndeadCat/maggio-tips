@@ -8,6 +8,7 @@ yes "yes" | pkg install vim
 yes "yes" | pkg install openssh
 yes "yes" | pkg install termux-api
 yes "yes" | pkg install nodejs
+yes "yes" | pkg install yarn
 yes "yes" | pkg install git
 yes "yes" | npm i -g eslint
 yes "yes" | npm i -g nodemon
